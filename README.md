@@ -50,7 +50,7 @@
 - 🧠 Solving coding puzzles
 
 ## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/abhijeet-jain-84486a313)
+- [LinkedIn](https://www.linkedin.com/in/abhijeet-jain-84486a313)
 - [CodeForces](https://codeforces.com/profile/Abhijeet_Jain)
 - [CodeChef](https://www.codechef.com/users/abhijeet_jain3)
 
