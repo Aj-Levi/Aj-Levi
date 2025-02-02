@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aj-Levi&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Levi&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-Levi&layout=compact&theme=radical&v=1" />
 </p>
 
 ## 🎯 Future Goals
