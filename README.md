@@ -10,16 +10,45 @@
 - 🟢 Pupil on Codeforces
 - ⭐⭐⭐ 3-star coder on CodeChef
 
-## 🛠 Tech Stack
-- 💼 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+## 🛠 Tech Stack (as used in StyleScape)
+
+- 💻 &nbsp;**Languages & Frameworks**  
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+
+- 🎨 &nbsp;**Styling**  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-333333?style=flat&logo=daisyui)
+
+- 🌐 &nbsp;**Backend & APIs**  
+  ![Next.js API Routes](https://img.shields.io/badge/-API%20Routes-333333?style=flat&logo=vercel)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
+
+- 🔐 &nbsp;**Authentication & Payments**  
+  ![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-333333?style=flat&logo=next.js)
+  ![Razorpay](https://img.shields.io/badge/-Razorpay-333333?style=flat&logo=razorpay)
+
+- 📦 &nbsp;**State Management**  
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-333333?style=flat&logo=redux)
+  ![RTK Query](https://img.shields.io/badge/-RTK%20Query-333333?style=flat&logo=redux)
+  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
+
+- 🧰 &nbsp;**Tools & Utilities**  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![ImageKit](https://img.shields.io/badge/-ImageKit-333333?style=flat&logo=imagekit)
+  ![React Toastify](https://img.shields.io/badge/-React%20Toastify-333333?style=flat&logo=react)
+  ![bcrypt](https://img.shields.io/badge/-bcrypt-333333?style=flat&logo=)
+
+- 🚀 &nbsp;**Deployment**  
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+
 
 ## 🌟 Projects
 
