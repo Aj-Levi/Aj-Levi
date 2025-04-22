@@ -10,7 +10,7 @@
 - 🟢 Pupil on Codeforces
 - ⭐⭐⭐ 3-star coder on CodeChef
 
-## 🛠 Tech Stack (as used in StyleScape)
+## 🛠 Tech Stack
 
 - 💻 &nbsp;**Languages & Frameworks**  
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
