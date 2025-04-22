@@ -23,15 +23,26 @@
 
 ## 🌟 Projects
 
-### 🛒 E-commerce Website (Collaborative Project)
-- **Description:** Developed the frontend of an e-commerce website as part of a two-person team.
-- **My Role:** Created the login page, home page and category details section
-- **Technologies Used:** HTML5, CSS3, Js
-- **Repository:** https://github.com/ajaykathar30/Project.git
-- **Deployment:** Deployed on Github Pages https://ajaykathar30.github.io/Project/
-- **Note:** This project is hosted on my teammate's GitHub account, where I contributed as a collaborator.
+### 🛍️ StyleScape - Modern E-commerce Platform
 
-🚀 More solo projects coming soon! Currently focusing on building my skills in full-stack development.
+**Description:**  
+A full-featured fashion e-commerce platform built using Next.js 15 with modern UI, secure authentication, and an admin dashboard for seamless store management.
+
+**My Role:**  
+- Designed and developed the **entire frontend and backend**
+- Implemented **authentication** with Google, GitHub, and credentials using NextAuth.js
+- Developed **admin panel** for managing products, orders, and users
+- Integrated **Razorpay** for payment processing and **MongoDB Atlas** for data storage
+
+**Technologies Used:**  
+`Next.js 15` • `TypeScript` • `TailwindCSS` • `DaisyUI` • `Redux Toolkit` • `Zustand` • `MongoDB` • `Mongoose` • `NextAuth.js` • `Razorpay SDK` • `ImageKit`
+
+**🔗 Repository:**  
+[GitHub Repository](https://github.com/Aj-Levi/Style-Scape)
+
+**🚀 Live Demo:**  
+[style-scape.vercel.app](https://style-scape.vercel.app)
+
 
 ## 📊 GitHub Stats
 <p align="center">
