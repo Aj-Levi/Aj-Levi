@@ -69,10 +69,6 @@ A full-featured fashion e-commerce platform built using Next.js 15 with modern U
 **🔗 Repository:**  
 [GitHub Repository](https://github.com/Aj-Levi/Style-Scape)
 
-**🚀 Live Demo:**  
-[style-scape.vercel.app](https://style-scape.vercel.app)
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aj-Levi&show_icons=true&theme=radical&v=2" />
