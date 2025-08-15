@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abhijeet Jain!
 
 ## 🎓 About Me
-- 🏫 First-year B.Tech undergraduate in Information Technology at Indian Institute of Information Technology Allahabad
+- 🏫 Second year B.Tech undergraduate in Information Technology at Indian Institute of Information Technology Allahabad
 - 💻 Passionate about competitive programming and full-stack development
 - 🌱 Currently learning and growing my skills in web development
 - 🎯 Aiming to become a proficient software engineer
