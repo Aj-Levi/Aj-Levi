@@ -7,7 +7,7 @@
 - 🎯 Aiming to become a proficient software engineer
 
 ## 🏆 Competitive Programming
-- 🟢 Pupil on Codeforces
+- 🟢 Specialist on Codeforces
 - ⭐⭐⭐ 3-star coder on CodeChef
 
 ## 🛠 Tech Stack
